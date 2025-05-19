@@ -41,3 +41,4 @@
 
 * [Starting the Sync](campaign-scenarios/starting-the-sync.md)
 * [Publishing](campaign-scenarios/publishing.md)
+* [Improving content](campaign-scenarios/improving-content.md)
